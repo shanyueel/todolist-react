@@ -12,7 +12,7 @@ This project is built for React.js learning. It is a basic TodoList for users to
 1.Open your terminal, clone this project to your computer.
 
 ```
-git clone https://github.com/shanyueel/todolist-react.git
+git clone https://github.com/shanyueel/todolist_react.git
 ```
 
 2.Enter this project's folder
