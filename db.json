@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "title": "Learn react-router",
+      "isDone": true,
+      "id": 1
+    },
+    {
+      "title": "Learn to create custom hooks",
+      "isDone": true,
+      "id": 2
+    },
+    {
+      "title": "Learn to use context",
+      "isDone": true,
+      "id": 3
+    },
+    {
+      "title": "Learn to implement auth",
+      "isDone": true,
+      "id": 4
+    },
+    {
+      "title": "be positive",
+      "isDone": false,
+      "id": 5
+    },
+    {
+      "title": "go to school alone",
+      "isDone": false,
+      "id": 6
+    }
+  ]
+}
