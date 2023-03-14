@@ -63,7 +63,7 @@ const SignUpPage = () => {
     if (isAuthenticated) {
       navigate('/todos');
     }
-  }, [navigate]);
+  }, [isAuthenticated, navigate]);
 
   return (
     <AuthContainer>
